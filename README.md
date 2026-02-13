@@ -122,14 +122,14 @@ Company fundamentals
 
 Forecast insights
 
-📊 Example Queries
+## 📊 Example Queries
 Summarize and compare analyst recommendations and fundamentals for Vedanta and LTIMindtree.
 Show in tables.
 What do these companies do?
 What is the stock forecast?
 Get analyst recommendations for LTIMindtree
 What do Vedanta and LTIMindtree do?
-🛠 Tools Used
+## 🛠 Tools Used
 Groq LLM (llama-3.3-70b-versatile)
 
 YFinanceTools
@@ -148,7 +148,7 @@ Web search
 
 Source-backed summaries
 
-🧩 Key Features
+## 🧩 Key Features
 Tool-calling agents
 
 Multi-agent collaboration
